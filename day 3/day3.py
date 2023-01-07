@@ -32,7 +32,7 @@ elif direction == "right":
   if yell == "yes":
     print("You can hear some steps and you start to smell something that's not that good and you regret your choice, but it's already too late as you turn around and see two fierce eyes get near your face and you realize it's your end. Game over.")
   elif yell == "no":
-    run_or_walk = str(input("You go to the end of the cave to see a chest opened up, revealing its treasure. You take the treasure and turn around in order to get out of the cave. You can do it silently like nothing happened or you can run to garantee your treasure quickly. Type 'run' or type 'walk'."))
+    run_or_walk = str(input("You go to the end of the cave to see a chest opened up, revealing its treasure. You take the treasure and turn around in order to get out of the cave. You can do it silently like nothing happened or you can run to guarantee your treasure quickly. Type 'run' or type 'walk'."))
     if run_or_walk == "run":
       print("As you're running you can hear some loud steps getting closer and you regret your choice, but it's already too late as you turn around and see two fierce eyes get near your face and you realize it's your end. Game over.")
     elif run_or_walk == "walk":
