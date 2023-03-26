@@ -26,4 +26,7 @@ Dia 9:
 Aqui o desafio era simular um leilão onde cada pessoa que fosse dar um lance não soubesse qual era o lance que os outros participantes deram, sendo que o maior lance vencia.
 
 Dia 10:
-Como de prache, aqui neste dia o objetivo era criar uma calculadora
+Como de prache em um curso para iniciantes, aqui o objetivo era criar uma calculadora.
+
+Dia 11:
+No décimo primeiro dia o desafio era criar um jogo de Blackjack onde o jogador/usuário fica contra o computador (eu completei este desafio sem nenhuma dica, apenas observando o jogo original).
