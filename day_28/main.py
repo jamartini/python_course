@@ -1,6 +1,5 @@
 from tkinter import *
 from math import floor
-# from playsound import playsound
 import pygame
 
 PINK = "#e2979c"

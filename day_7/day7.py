@@ -4,7 +4,7 @@ import random
 
 chosen_word = random.choice(hangman_words.word_list)
 word_length = len(chosen_word)
-word_splitted = [*chosen_word]
+word_split = [*chosen_word]
 
 display = []
 for i in range(word_length):
@@ -19,7 +19,7 @@ print(hangman_arts.stages[0])
 
 while right_guesses < word_length and wrong_guesses < 6:
     guess = input("Guess a letter: ").lower()
-    if word_splitted.count(guess) and not display.count(guess):
+    if word_split.count(guess) and not display.count(guess):
         for i in range(word_length):
             if chosen_word[i] == guess:
                 display[i] = guess
