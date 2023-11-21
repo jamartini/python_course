@@ -66,3 +66,21 @@ Aqui foi feito um jogo onde o usuário/jogador tenta adivinhar o maior número p
 
 Dia 26:
 Neste dia foi criado um programa que usa o alfabeto NATO que ajuda o usuário a soletrar alguma palavra durante uma chamada (em inglês).
+
+Dia 27:
+Aqui foi criada uma calculadora que converte milhas para quilômetros (main) enquanto os arquivos main1.py e main2.py foram testes e exemplos de usos do módulo tkinter.
+
+Dia 28:
+No dia 28 foi criado um aplicativo para aplicação do método Pomodoro.
+
+Dia 29:
+Neste dia foi feito um projeto de gerenciador de senhas com a opção de gerar uma senha aleatória, salvando as senhas em um arquivo no computador.
+
+Dia 31:
+Aqui foi criado um jogo de flash cards que ajuda na memorização de palavras em outro idioma (neste caso italiano tendo o inglês como idioma de referência).
+
+Dia 32:
+Neste dia foi feito um projeto para enviar e-mails de aniversário, ele checa por uma lista de aniversários comparando cada um com a data atual e, em caso de equivalência, envia o e-mail.
+
+Dia 33:
+Este projeto verifica a posição atual da ISS (International Space Station) e a compara com a minha localização e também checa se está de dia ou de noite (obtendo informações sobre os horários dos crepúsculos). Caso esteja noite e a ISS esteja próxima é enviado um e-mail para mim para que eu olhe pra cima.
